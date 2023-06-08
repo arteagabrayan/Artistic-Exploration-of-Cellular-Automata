@@ -1,6 +1,14 @@
 # Artistic Exploration of Cellular Automata: Bridging the Gap Between Rule-based Patterns and the Game of Life
 This work explores the artistic potential of cellular automata in rule-based patterns and their integration with the Game of Life. The research aims to bridge the gap between mathematical modeling and visual art by presenting a method for generating captivating patterns using cellular automaton rules. It employs an 8-bit encoding scheme and vibrant color palettes to enhance the artistic appeal. Additionally, a simulation is developed to dynamically evolve the automaton and integrate it with the rules of the Game of Life, resulting in captivating and impressive artistic expressions. This interdisciplinary research highlights the connection between mathematics, computer science, and art, challenging traditional notions and inviting further exploration in this unique field. The paper emphasizes the significance of this interdisciplinary research and encourages continued exploration in bridging the gap between rule-based patterns and the Game of Life through cellular automata.
 
+## Exploring
+
+![Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png)
+
+
+![Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif)
+
+
 ## Citing
 
 If you use our project for your research or if you find this paper and repository helpful, please consider citing the work.
@@ -25,17 +33,14 @@ conda create --name PhD python=3.10
 ```
 pip install notebook
 ```
+```
+conda install jupyter 
+```
 So, activate it:
 ```
 conda activate PhD
 ```
 Now, install the libraries
-```
-conda install -c anaconda keras-gpu
-```
-```
-conda install jupyter 
-```
 ```
 pip install -r requirements.txt
 ```
