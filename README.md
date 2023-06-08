@@ -1,21 +1,30 @@
 # Artistic Exploration of Cellular Automata: Bridging the Gap Between Rule-based Patterns and the Game of Life
 This work explores the artistic potential of cellular automata in rule-based patterns and their integration with the Game of Life. The research aims to bridge the gap between mathematical modeling and visual art by presenting a method for generating captivating patterns using cellular automaton rules. It employs an 8-bit encoding scheme and vibrant color palettes to enhance the artistic appeal. Additionally, a simulation is developed to dynamically evolve the automaton and integrate it with the rules of the Game of Life, resulting in captivating and impressive artistic expressions. This interdisciplinary research highlights the connection between mathematics, computer science, and art, challenging traditional notions and inviting further exploration in this unique field. The paper emphasizes the significance of this interdisciplinary research and encourages continued exploration in bridging the gap between rule-based patterns and the Game of Life through cellular automata.
 
-## Exploring
+## Exploring by Rule
 
 Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30.
-![Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png)
+<div style="text-align: center;">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png" alt="Rule30." style="width: 50%;">
+</div>
 
-<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png" alt="Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30." style="width: 50%;">
+Exploring the Boundaries of Art and Mathematical Modeling: The captivating patterns generated using Rule 90 showcase the artistic potential of cellular automata.
+<div style="text-align: center;">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule90153222.png" alt="Rule90." style="width: 50%;">
+</div>
+
+A Harmonious Blend of Art and Mathematical Modeling: The mesmerizing patterns obtained through Rule 110 demonstrate the captivating possibilities of cellular automata in artistic exploration.
+<div style="text-align: center;">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule110153638.png" alt="Rule110." style="width: 50%;">
+</div>
+
+
+## Exploring by Rule and Game of Life
 
 Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
-![Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif)
-
-Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
-<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions." style="width: 50%;">
-
-Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
-<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions." width="300">
+<div style="text-align: center;">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Rule214-GoL." style="width: 50%;">
+</div>
 
 
 ## Citing
