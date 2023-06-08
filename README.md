@@ -22,9 +22,10 @@ A Harmonious Blend of Art and Mathematical Modeling: The mesmerizing patterns ob
 ## Exploring by Rule and Game of Life
 
 Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Rule214-GoL." style="width: 50%;">
-</div>
+</p>
+
 
 
 ## Citing
