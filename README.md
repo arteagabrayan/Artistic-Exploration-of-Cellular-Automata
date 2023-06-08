@@ -43,8 +43,8 @@ If you use our project for your research or if you find this paper and repositor
 
 ## Folders and files
 
-- **HBAA - Cellular Automata.ipynb** Notebook containing the code and algoritms.
-- **imgs** This folder contain some results such as images and animations.
+- **HBAA - Cellular Automata.ipynb** Notebook containing code and algorithms.
+- **imgs** This folder contains various results, including images and animations.
 
 ## Requirements
 This repository was developed in the Python 3.10.9 programming language.
