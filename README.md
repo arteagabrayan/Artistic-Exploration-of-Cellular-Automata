@@ -3,10 +3,19 @@ This work explores the artistic potential of cellular automata in rule-based pat
 
 ## Exploring
 
+Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30.
 ![Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png)
 
+<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/Rule30153436.png" alt="Unveiling the Beauty of Mathematical Modeling: Captivating patterns emerge through the artistic convergence of art and mathematics, exemplified by Rule 30." style="width: 50%;">
 
+Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
 ![Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.](https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif)
+
+Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
+<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions." style="width: 50%;">
+
+Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
+<img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions." width="300">
 
 
 ## Citing
