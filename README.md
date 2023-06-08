@@ -21,10 +21,23 @@ A Harmonious Blend of Art and Mathematical Modeling: The mesmerizing patterns ob
 
 ## Exploring by Rule and Game of Life
 
+Expanding the artistic repertoire: Dynamic evolution through the fusion of cellular automata and the Game of Life. Captivating visual symphony exemplified by Rule 110 animation and Game of Life interactions.
+<p align="center">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Rule110-GoL." style="width: 50%;">
+</p>
+
 Exploring new dimensions: animation showcasing the captivating interplay of Rule 214 and Game of Life interactions.
 <p align="center">
   <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Rule214-GoL." style="width: 50%;">
 </p>
+
+Unveiling complexity: Four frames illustrating the intricate dynamics of Rule 182 and Game of Life interactions. The animation beautifully demonstrates the convergence of cellular automata and the Game of Life, resulting in visually captivating patterns.
+<p align="center">
+  <img src="https://github.com/arteagabrayan/Artistic-Exploration-of-Cellular-Automata/blob/main/imgs/214-Animation233028.gif" alt="Rule182-GoL." style="width: 50%;">
+</p>
+
+
+
 
 
 
